@@ -1,0 +1,17 @@
+{
+  "title": "Guitar Shop Rosie",
+  "description": "<manga description>",
+  "artist": "Tsutomu Takahashi",
+  "author": "Tsutomu Takahashi",
+  "cover": "https://i.imgur.com/1B38t1Q.png",
+  "chapters": {
+    "0": {
+      "title": "Rickenbacker B6 Lap Steel",
+      "volume": "0",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/6Cb3f90/"
+      },
+      "last_updated": "1629264204"
+    }
+  }
+}
