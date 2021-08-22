@@ -1,0 +1,57 @@
+{
+  "title": "Kurogane no Valhallian",
+  "description": "<manga description>",
+  "artist": "Toshimitsu Matsubara",
+  "author": "Toshimitsu Matsubara",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "1": {
+      "title": "A Samurai's Pride",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/gE1XRou/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Valhalla",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/KEtzWV8/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Legendary Hero",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/gjELtjh/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Guan Yu Yunchang",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/nba1M4S/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "The Corpse Eater",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/kZhJvxN/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "The Band of Strays",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/9TdQOfb/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
