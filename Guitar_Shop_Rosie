@@ -7,11 +7,19 @@
   "chapters": {
     "0": {
       "title": "Rickenbacker B6 Lap Steel",
-      "volume": "0",
+      "volume": "1",
       "groups": {
         "Zaku Scans": "/proxy/api/imgur/chapter/6Cb3f90/"
       },
       "last_updated": "1629264204"
+    },
+    "1": {
+      "title": "Fender Telecaster 58",
+      "volume": "1",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/kVv4zJg/"
+      },
+      "last_updated": "1629992860"
     }
   }
 }
