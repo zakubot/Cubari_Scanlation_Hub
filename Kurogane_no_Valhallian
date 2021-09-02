@@ -52,6 +52,14 @@
         "Zaku Scans": "/proxy/api/imgur/chapter/9TdQOfb/"
       },
       "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "The Great Khan",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/vKxcU07/"
+      },
+      "last_updated": "1630625654"
     }
   }
 }
