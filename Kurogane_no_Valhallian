@@ -76,6 +76,14 @@
         "Zaku Scans": "/proxy/api/imgur/chapter/lyQLLuh/"
       },
       "last_updated": "1631343695"
+    },
+    "10": {
+      "title": "Warrior",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/4COsqW9/"
+      },
+      "last_updated": "1631825987"
     }
   }
 }
