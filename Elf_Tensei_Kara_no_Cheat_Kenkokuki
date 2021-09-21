@@ -5,13 +5,13 @@
   "author": "Tsukiyo Rui",
   "cover": "https://i.imgur.com/QF5UTso.jpg",
   "chapters": {
-    "1.1": {
+    "1": {
       "title": "",
       "volume": "1",
       "groups": {
         "Zaku Scans": "/proxy/api/imgur/chapter/1johS6i/"
       },
-      "last_updated": "1631856505"
+      "last_updated": "1632266478"
     }
   }
 }
