@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/QF5UTso.jpg",
   "chapters": {
     "1": {
-      "title": "",
+      "title": "<chapter name>",
       "volume": "1",
       "groups": {
         "Zaku Scans": "/proxy/api/imgur/chapter/NjTBrNC/"
