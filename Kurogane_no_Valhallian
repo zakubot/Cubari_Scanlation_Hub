@@ -92,6 +92,14 @@
         "Zaku Scans": "/proxy/api/imgur/chapter/HrJiFPV/"
       },
       "last_updated": "1632295326"
+    },
+    "12": {
+      "title": "Infiltration",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/cU3khka/"
+      },
+      "last_updated": "1633041857"
     }
   }
 }
