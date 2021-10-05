@@ -3,7 +3,7 @@
   "description": "<manga description>",
   "artist": "Toshimitsu Matsubara",
   "author": "Toshimitsu Matsubara",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "https://imgur.com/zVn52w0",
   "chapters": {
     "1": {
       "title": "A Samurai's Pride",
