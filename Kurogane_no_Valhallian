@@ -100,6 +100,14 @@
         "Zaku Scans": "/proxy/api/imgur/chapter/cU3khka/"
       },
       "last_updated": "1633041857"
+    },
+    "13": {
+      "title": "Death Wish",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/VlSBvxi/"
+      },
+      "last_updated": "1633615982"
     }
   }
 }
