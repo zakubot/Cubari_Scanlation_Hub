@@ -108,6 +108,14 @@
         "Zaku Scans": "/proxy/api/imgur/chapter/VlSBvxi/"
       },
       "last_updated": "1633615982"
+    },
+    "13": {
+      "title": "Your Name",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/mK04WBH/"
+      },
+      "last_updated": "1634225178"
     }
   }
 }
