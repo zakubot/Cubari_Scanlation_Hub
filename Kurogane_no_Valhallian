@@ -124,6 +124,22 @@
         "Zaku Scans": "/proxy/api/imgur/chapter/pBLDgIn/"
       },
       "last_updated": "1635350404"
+    },
+    "16": {
+      "title": "Into the Ring",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/mWepmPm/"
+      },
+      "last_updated": "1636443697"
+    },
+    "17": {
+      "title": "Banquet",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/4dR5wGL/"
+      },
+      "last_updated": "1636443697"
     }
   }
 }
