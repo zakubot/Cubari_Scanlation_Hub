@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "A Samurai's Pride",
-      "volume": "<volume number>",
+      "volume": "1",
       "groups": {
         "Zaku Scans": "/proxy/api/imgur/chapter/gE1XRou/"
       },
@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "Valhalla",
-      "volume": "<volume number>",
+      "volume": "1",
       "groups": {
         "Zaku Scans": "/proxy/api/imgur/chapter/KEtzWV8/"
       },
@@ -23,7 +23,7 @@
     },
     "3": {
       "title": "Legendary Hero",
-      "volume": "<volume number>",
+      "volume": "1",
       "groups": {
         "Zaku Scans": "/proxy/api/imgur/chapter/gjELtjh/"
       },
@@ -31,7 +31,7 @@
     },
     "4": {
       "title": "Guan Yu Yunchang",
-      "volume": "<volume number>",
+      "volume": "1",
       "groups": {
         "Zaku Scans": "/proxy/api/imgur/chapter/nba1M4S/"
       },
@@ -39,11 +39,19 @@
     },
     "5": {
       "title": "The Corpse Eater",
-      "volume": "<volume number>",
+      "volume": "1",
       "groups": {
         "Zaku Scans": "/proxy/api/imgur/chapter/kZhJvxN/"
       },
       "last_updated": "1628639036"
+    },
+    "5.5": {
+      "title": "Volume 1 Extras",
+      "volume": "1",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/0wg7Dds/"
+      },
+      "last_updated": "1640064029"
     },
     "6": {
       "title": "The Band of Strays",
@@ -140,6 +148,38 @@
         "Zaku Scans": "/proxy/api/imgur/chapter/4dR5wGL/"
       },
       "last_updated": "1636443697"
+    },
+    "18": {
+      "title": "Bound in Chains",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/WSzd4LW/"
+      },
+      "last_updated": "1640064029"
+    },
+    "19": {
+      "title": "Arena",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/FSS7iVp/"
+      },
+      "last_updated": "1640064029"
+    },
+    "20": {
+      "title": "Corpse",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/F9Lk9Xl/"
+      },
+      "last_updated": "1640064029"
+    },
+    "21": {
+      "title": "Memory",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/sdMsi9X/"
+      },
+      "last_updated": "1640064029"
     }
   }
 }
