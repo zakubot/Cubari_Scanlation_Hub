@@ -196,6 +196,14 @@
         "Zaku Scans": "/proxy/api/imgur/chapter/kjivzh9/"
       },
       "last_updated": "1641916266"
+    },
+    "24": {
+      "title": "United Front",
+      "volume": "<volume number>",
+      "groups": {
+        "Zaku Scans": "/proxy/api/imgur/chapter/602ER2o/"
+      },
+      "last_updated": "1642789510"
     }
   }
 }
